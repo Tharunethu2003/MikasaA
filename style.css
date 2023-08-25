@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Lugrasimo');
+
+#photo{
+    height: 600px;
+    margin: 15px;
+    float: left;
+    width: 400px;
+    background-color: rgb(98, 102, 83);
+}
+
+body{
+    background-color: rgb(149, 156, 146)
+}
+
+#photo{
+    height: 800px;
+    margin: 15px;
+    float: left;
+    width: 400px;
+    background-color: rgb(98, 102, 83);
+}
+
+#intro{
+    float: left;
+    text-align: justify;
+    width: 1000px;
+    margin: 5px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+#Name,#jobname,#name, #Gender, #age, #status, #occu, #Affiliation{
+    color: whitesmoke;
+}
+
+nav a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: black;
+    border-bottom: 2px rgb(98, 102, 83) solid;
+}
+
+#nav{
+    float: right;
+    margin-right: 400px;
+}
+
+a:hover{
+    background-color: rgb(98, 102, 83);
+}
+
+#abouthead{
+    color: whitesmoke;
+    background-color: rgb(98, 102, 83);
+    width: 200px;
+    font-family:"Lugrasimo";
+}
+
